@@ -1,5 +1,5 @@
-# Datathon for Influencer Marketing
-Datathon with [Launchmetrics](https://www.launchmetrics.com/) for influencer marketing
+# Influencer Marketing for Luxuary brands
+Datathon of [Launchmetrics](https://www.launchmetrics.com/) and ESCP in 2020. The goal was to increase the revenue from Instagram posts.
 
 <p align="center">
 <img src="./images/Launchmetcis.png" alt="" width="600">
