@@ -1,5 +1,5 @@
 # Datathon for Influencer Marketing
-This is the repository for Launchmetrics Datathon. Tried instagram image color property analysis with OpenCV using HSV and RGB color space.
+Datathon with [Launchmetrics](https://www.launchmetrics.com/) for influencer marketing
 
 <p align="center">
 <img src="./images/Launchmetcis.png" alt="" width="600">
@@ -10,7 +10,9 @@ This is the repository for Launchmetrics Datathon. Tried instagram image color p
 <img src="./images/Challenge.png" alt="" width="700">
 </p>
 <br><br>
+
 ## My solution
+
 <p align="center">
 <img src="./images/Color property.png" alt="" width="600">
 </p>
