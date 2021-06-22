@@ -9,16 +9,16 @@ This is the repository for Launchmetrics Datathon. Tried instagram image color p
 <p align="center">
 <img src="./images/Challenge.png" alt="" width="700">
 </p>
-
+<br><br>
 ## My solution
 <p align="center">
 <img src="./images/Color property.png" alt="" width="600">
 </p>
-
+<br><br>
 <p align="center">
 <img src="./images/Result.png" alt="" width="600">
 </p>
-
+<br><br>
 <p align="center">
 <img src="./images/Suggestion.png" alt="" width="600">
 </p>
