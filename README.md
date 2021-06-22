@@ -1,4 +1,4 @@
-# Influencer Marketing for Luxuary brands
+# Improve Influencer Marketing for Luxuary brands
 Datathon of [Launchmetrics](https://www.launchmetrics.com/) and ESCP in 2020. The goal was to increase the revenue from Instagram posts.
 
 <p align="center">
