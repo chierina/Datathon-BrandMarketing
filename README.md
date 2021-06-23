@@ -20,13 +20,13 @@ Datathon of [Launchmetrics](https://www.launchmetrics.com/) and ESCP in 2020. Th
 - For 4, used HSV color-space, classified each pixel into 8 colors and divided by total number of pixels in the image
 
 <p align="center">
-<img src="./images/Color property.png" alt="" width="600">
+<img src="./images/Color property.png" alt="" width="700">
 </p>
 <br><br>
 <p align="center">
-<img src="./images/Result.png" alt="" width="600">
+<img src="./images/Result.png" alt="" width="700">
 </p>
 <br><br>
 <p align="center">
-<img src="./images/Suggestion.png" alt="" width="600">
+<img src="./images/Suggestion.png" alt="" width="700">
 </p>
